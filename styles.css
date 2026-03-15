@@ -12,6 +12,8 @@ body{
     margin: 0 auto; 
     border-left: 3px double rgb(211, 155, 0); 
     border-right: 3px double rgb(211, 155, 0); 
+    border-top: 3px double rgb(211, 155, 0); 
+    border-bottom: 3px double rgb(211, 155, 0); 
     padding: 20px;
 }
 
@@ -45,8 +47,7 @@ h1{
     color:rgb(0, 0, 0); 
     font-size: 80px;
     width: 1100px;
-    margin: 0 auto; 
-    padding: 30 px; 
+    line-height:120px; 
     border-top: 3px double rgb(211, 155, 0); 
     border-bottom: 3px double rgb(211, 155, 0); 
     border-left: 40px double rgb(211, 155, 0); 
